@@ -6,6 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="d85e1df4-2442-4f43-9b04-fce79de6d36b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kuang/servlet/FilesServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kuang/servlet/FilesServlet.java" afterDir="false" />
+    </list>
     <list default="true" id="d85e1df4-2442-4f43-9b04-fce79de6d36b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +25,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IntelliJ_IDEA\Web\filtes-upload\.idea" />
+      </set>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -45,6 +61,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZLkKjhpV2ZIW5MTo2WLZW47xeC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -169,6 +186,16 @@
       <updated>1584625700109</updated>
       <workItem from="1584625703238" duration="751000" />
       <workItem from="1584697522649" duration="9000" />
+      <workItem from="1585292698203" duration="2118000" />
+    </task>
+    <task id="LOCAL-00001" summary="filtes-upload">
+      <created>1585293485423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585293485424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
       <workItem from="1585292698203" duration="509000" />
     </task>
     <servers />
@@ -176,11 +203,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="filtes-upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="filtes-upload" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584626023561">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584626023561" />
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1585293483082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585293483082" />
+    <state x="147" y="64" key="DiffContextDialog" timestamp="1585293452217">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1585293452217" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1585293326671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -237,6 +276,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="309" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585293307149" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1585294677606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585294677606" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585292698171">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
